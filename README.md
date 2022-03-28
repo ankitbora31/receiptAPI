@@ -1,43 +1,22 @@
 # Introduction
-- Add your project logo.
-- Write a short introduction to the project.
-- If you are using badges, add them here.
+- Reciept API 
+- Simple API for storing and accessing the receipt details for any user.
 
-## :ledger: Index
-
-- [About](#beginner-about)
-- [Usage](#zap-usage)
-  - [Installation](#electric_plug-installation)
-  - [Commands](#package-commands)
-- [Development](#wrench-development)
-  - [Pre-Requisites](#notebook-pre-requisites)
-  - [Developmen Environment](#nut_and_bolt-development-environment)
-  - [File Structure](#file_folder-file-structure)
-  - [Build](#hammer-build)  
-  - [Deployment](#rocket-deployment)  
-- [Community](#cherry_blossom-community)
-  - [Contribution](#fire-contribution)
-  - [Branches](#cactus-branches)
-  - [Guideline](#exclamation-guideline)  
-- [FAQ](#question-faq)
-- [Resources](#page_facing_up-resources)
-- [Gallery](#camera-gallery)
-- [Credit/Acknowledgment](#star2-creditacknowledgment)
-- [License](#lock-license)
 
 ##  :beginner: About
-Add a detailed introduction about the project here, everything you want the reader to know.
+API is an abbreviation for Application Programming Interface which is a collection of communication protocols and subroutines used by various programs to communicate between them, an API helps two programs or applications to communicate with each other by providing them with necessary tools and functions. It takes the request from the user and sends it to the service provider and then again sends the result generated from the service provider to the desired user.
 
 ## :zap: Usage
-Write about how to use this project.
+One of the top reasons developers use APIs is to integrate one system with another system.
+Adding or enhancing functionality for customers
+APIs can help improve software and system testing by allowing quality engineering teams to separate tests for frontend components, the parts of software that users see, from tests for backend components, the parts of software that users don’t see.
 
 ###  :electric_plug: Installation
 - Steps on how to install this project, to use it.
-- Be very detailed here, For example, if you have tools which run on different operating systems, write installation steps for all of them.
+- This project was done on Springboot (It is an open source, microservice-based Java web framework)
+- Starting with the installation (step by step, nothing complex)
+- Using Spring Initializer generating the structure of the project. Like name of the project, adding dependencies and setting the version.
 
-```
-$ add installations steps if you have to.
-```
 
 ###  :package: Commands
 - Commands to start the project.
