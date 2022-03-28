@@ -29,31 +29,8 @@ APIs can help improve software and system testing by allowing quality engineerin
 
 ###  :nut_and_bolt: Development Environment
 - Dependencies can be set while starting the project in spring initializer phase although if you miss any of the dependency, these can be further added in pom file which stores all the dependencies. When we initialize the spring it already provides us a pom file.
-- This project is done using maven so the structure is to be followed while adding dependencies as 
-<dependency>
- <groupId></groupId>
- <artifactId></artifactId>
-</dependency>
+- This project is done using maven so the structure is to be followed while adding dependencies.
 
-
-
-
-## :cherry_blossom: Community
-
-If it's open-source, talk about the community here, ask social media links and other links.
-
- ###  :fire: Contribution
-
- Your contributions are always welcome and appreciated. Following are the things you can do to contribute to this project.
-
- 1. **Report a bug** <br>
- If you think you have encountered a bug, and I should know about it, feel free to report it [here]() and I will take care of it.
-
- 2. **Request a feature** <br>
- You can also request for a feature [here](), and if it will viable, it will be picked for development.  
-
- 3. **Create a pull request** <br>
- It can't get better then this, your pull request will be appreciated by the community. You can get started by picking up any open issues from [here]() and make a pull request.
 
  > If you are new to open-source, make sure to check read more about it [here](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) and learn more about creating a pull request [here](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github).
 
@@ -79,18 +56,7 @@ If it's open-source, talk about the community here, ask social media links and o
 2. Comply with the best practices and guidelines e.g. where the PR concerns visual elements it should have an image showing the effect.
 3. It must pass all continuous integration checks and get positive reviews.
 
-After this, changes will be merged.
 
-
-### :exclamation: Guideline
-coding guidelines or other things you want people to follow should follow.
-
-
-## :question: FAQ
-You can optionally add a FAQ section about the project.
-
-##  :page_facing_up: Resources
-Add important resources here
 
 ##  :camera: Gallery
 ![Screenshot (229)](https://user-images.githubusercontent.com/59395624/160380248-02a7e082-3a03-4434-9365-dded1c715bd3.png)
