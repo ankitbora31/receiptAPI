@@ -35,20 +35,6 @@ APIs can help improve software and system testing by allowing quality engineerin
  > If you are new to open-source, make sure to check read more about it [here](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source) and learn more about creating a pull request [here](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github).
 
 
- ### :cactus: Branches
-
- I use an agile continuous integration methodology, so the version is frequently updated and development is really fast.
-
-1. **`stage`** is the development branch.
-
-2. **`master`** is the production branch.
-
-3. No other permanent branches should be created in the main repository, you can create feature branches but they should get merged with the master.
-
-**Steps to work with feature branch**
-
-1. To start working on a new feature, create a new branch prefixed with `feat` and followed by feature name. (ie. `feat-FEATURE-NAME`)
-2. Once you are done with your changes, you can raise PR.
 
 **Steps to create a pull request**
 
@@ -64,3 +50,4 @@ APIs can help improve software and system testing by allowing quality engineerin
 ![Screenshot (231)](https://user-images.githubusercontent.com/59395624/160381029-1229947d-c617-4c11-b604-305aac1b832d.png)
 
 
+## THANK YOU
