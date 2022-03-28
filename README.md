@@ -16,58 +16,27 @@ APIs can help improve software and system testing by allowing quality engineerin
 - This project was done on Springboot (It is an open source, microservice-based Java web framework)
 - Starting with the installation (step by step, nothing complex)
 - Using Spring Initializer generating the structure of the project. Like name of the project, adding dependencies and setting the version.
+- Installing MySQL as we are working with the mySql to store and fetch our data.
+- Adding a properties file where we set the connection status to the mySql.
+- Installing Postman is must as we need to test our API
 
-
-###  :package: Commands
-- Commands to start the project.
-
-##  :wrench: Development
-If you want other people to contribute to this project, this is the section, make sure you always add this.
 
 ### :notebook: Pre-Requisites
-List all the pre-requisites the system needs to develop this project.
-- A tool
-- B tool
+- Java Core
+- MySQL
+- SpringBoot
+- Postman
 
 ###  :nut_and_bolt: Development Environment
-Write about setting up the working environment for your project.
-- How to download the project...
-- How to install dependencies...
+- Dependencies can be set while starting the project in spring initializer phase although if you miss any of the dependency, these can be further added in pom file which stores all the dependencies. When we initialize the spring it already provides us a pom file.
+- This project is done using maven so the structure is to be followed while adding dependencies as 
+<dependency>
+ <groupId></groupId>
+ <artifactId></artifactId>
+</dependency>
 
 
-###  :file_folder: File Structure
-Add a file structure here with the basic details about files, below is an example.
 
-```
-.
-├── assets
-│   ├── css
-│   │   ├── index-ui.css
-│   │   └── rate-ui.css
-│   ├── images
-│   │   ├── icons
-│   │   │   ├── shrink-button.png
-│   │   │   └── umbrella.png
-│   │   ├── logo_144.png
-│   │   └── Untitled-1.psd
-│   └── javascript
-│       ├── index.js
-│       └── rate.js
-├── CNAME
-├── index.html
-├── rate.html
-└── README.md
-```
-
-| No | File Name | Details 
-|----|------------|-------|
-| 1  | index | Entry point
-
-###  :hammer: Build
-Write the build Instruction here.
-
-### :rocket: Deployment
-Write the deployment instruction here.
 
 ## :cherry_blossom: Community
 
@@ -124,10 +93,8 @@ You can optionally add a FAQ section about the project.
 Add important resources here
 
 ##  :camera: Gallery
-Pictures of your project.
+![Screenshot (229)](https://user-images.githubusercontent.com/59395624/160380248-02a7e082-3a03-4434-9365-dded1c715bd3.png)
+![Screenshot (230)](https://user-images.githubusercontent.com/59395624/160380667-a2c3534d-9c10-4eca-abda-939dd7bb24f2.png)
+![Screenshot (231)](https://user-images.githubusercontent.com/59395624/160381029-1229947d-c617-4c11-b604-305aac1b832d.png)
 
-## :star2: Credit/Acknowledgment
-Credit the authors here.
 
-##  :lock: License
-Add a license here, or a link to it.
